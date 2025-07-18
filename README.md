@@ -81,4 +81,4 @@ $apiKey = 'SUA_CHAVE_AQUI';
 ## 🙋🏻‍♂️ Autor
 
 Desenvolvido por **Davi Vieira de Souza**  
-📎 [LinkedIn](linkedin.com/in/davivieiraa) | [GitHub](https://github.com/davivieirasz)
+📎 [LinkedIn](https://www.linkedin.com/in/davivieiraa/) | [GitHub](https://github.com/davivieirasz)
